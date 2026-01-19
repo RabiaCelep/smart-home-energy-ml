@@ -21,6 +21,7 @@ Aksine, bu işlem sayesinde:
 
 - Model daha temiz ve tutarlı verilerle eğitilmiş oldu. 
   
+<img width="776" height="66" alt="Ekran görüntüsü 2026-01-19 220801" src="https://github.com/user-attachments/assets/dc8ad3aa-bc40-4fa7-acb8-e40f94700a44" />
 
 ---
 
