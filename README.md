@@ -41,6 +41,9 @@ Bu işlem sayesinde model,
 Saat bilgisi, enerji tüketimi açısından
 en önemli göstergelerden biri.
 
+<img width="675" height="98" alt="Ekran görüntüsü 2026-01-19 220212" src="https://github.com/user-attachments/assets/411fd3e9-510d-4f87-953c-d96bfcd92c89" />
+
+
 ---
 
 ##  3. Hava Durumu Verilerinin Hazırlanması
@@ -55,6 +58,9 @@ Enerji tüketimini etkileyebileceği düşünülen hava durumu değişkenleri:
 
 Bu sütunları kullanılabilecek şekilde sayısal formata dönüştürdüm.
 Böylece model, hava koşullarını doğrudan kullanabilir hale geldi.
+
+<img width="584" height="202" alt="Ekran görüntüsü 2026-01-19 220224" src="https://github.com/user-attachments/assets/5013148a-753c-4c6d-9a93-15693e0f2a4f" />
+
 
 ---
 
@@ -93,6 +99,9 @@ Pivot tablolar sayesinde:
 Bu sayede model,
 anlık tüketimi bu normal değerlerle karşılaştırabilir hale gelmiş oldu.
 
+<img width="516" height="519" alt="Ekran görüntüsü 2026-01-19 220247" src="https://github.com/user-attachments/assets/503cede0-659e-4889-a4a8-28e330c83523" />
+
+
 ---
 
 ##  5. Baseline Değerlerin Modele Eklenmesi
@@ -108,6 +117,9 @@ Bu işlem sonucunda model:
 Bu durum, özellikle tüketimi
 **düşük / yüksek** olarak sınıflandırmada
 modelin daha bilinçli kararlar vermesini sağladı.
+
+<img width="586" height="126" alt="Ekran görüntüsü 2026-01-19 220259" src="https://github.com/user-attachments/assets/a0895473-a960-4ca0-b297-daf5144bcd63" />
+
 
 ---
 
@@ -135,6 +147,7 @@ olacak şekilde ayırdım.
 Farklı makine öğrenmesi modelleri denedim ama 
 en başarılı sonucu **Random Forest** modeli verdi.
 
+<img width="526" height="265" alt="Ekran görüntüsü 2026-01-19 220319" src="https://github.com/user-attachments/assets/db215f1d-c88a-41dd-b68f-2e13b0353ed4" />
 
 ---
 
