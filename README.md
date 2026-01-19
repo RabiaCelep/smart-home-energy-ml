@@ -49,7 +49,7 @@ en önemli göstergelerden biri.
 
 ##  3. Hava Durumu Verilerinin Hazırlanması
 
-Enerji tüketimini etkileyebileceği düşünülen hava durumu değişkenleri:
+Enerji tüketimini etkileyebileceğini düşündüğüm hava durumu değişkenleri:
 
 - Sıcaklık  
 - Nem  
@@ -117,7 +117,7 @@ Bu işlem sonucunda model:
 
 Bu durum, özellikle tüketimi
 **düşük / yüksek** olarak sınıflandırmada
-modelin daha bilinçli kararlar vermesini sağladı.
+çok işimize yaradı.
 
 <img width="586" height="126" alt="Ekran görüntüsü 2026-01-19 220259" src="https://github.com/user-attachments/assets/a0895473-a960-4ca0-b297-daf5144bcd63" />
 
