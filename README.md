@@ -1,5 +1,9 @@
-#  Smart Home Energy – Machine Learning Projesi
 
+##  Makine Öğrenmesi Sertifikası
+
+[![Makine Öğrenmesi Sertifikası](Makine_Ogrenmesi_Sertifika.png)](Makine_Öğrenmesi_Sertifika.pdf)
+
+#  Smart Home Energy – Machine Learning Projesi
 Bu projede **Smart Home Dataset** veri seti kullanarak,
 bir akıllı ev ortamındaki enerji tüketim davranışları analiz ettim.
 
@@ -193,9 +197,6 @@ Bu projede:
 
 adımları eksiksiz ve mantıklı bir sırayla uygulanmıştır.
 
-##  Makine Öğrenmesi Sertifikası
-
-[![Makine Öğrenmesi Sertifikası](Makine_Ogrenmesi_Sertifika.png)](Makine_Öğrenmesi_Sertifika.pdf)
 
 
 
