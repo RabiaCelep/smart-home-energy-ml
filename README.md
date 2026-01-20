@@ -193,7 +193,10 @@ Bu projede:
 
 adımları eksiksiz ve mantıklı bir sırayla uygulanmıştır.
 
-![Sertifika](Makine_Öğrenmesi_Sertifika.pdf)
+##  Makine Öğrenmesi Sertifikası
+
+[![Makine Öğrenmesi Sertifikası](Makine_Ogrenmesi_Sertifika.png)](Makine_Öğrenmesi_Sertifika.pdf)
+
 
 
 
