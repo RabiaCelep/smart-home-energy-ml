@@ -192,3 +192,6 @@ Bu projede:
 - Makine öğrenmesi modeli eğitimi  
 
 adımları eksiksiz ve mantıklı bir sırayla uygulanmıştır.
+[Makine_Öğrenmesi_Sertifika.pdf](https://github.com/user-attachments/files/24738493/Makine_Ogrenmesi_Sertifika.pdf)
+
+
